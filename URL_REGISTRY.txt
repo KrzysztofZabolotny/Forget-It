@@ -1,0 +1,15 @@
+http://www.google.com
+http://www.onet.pl
+http://www.interia.pl
+http://www.facebook.com
+http://www.mail.google.com
+http://www.instagram.com
+http://www.twitter.com
+http://www.blackhatworld.com
+http://yahoo.com
+https://www.netflix.com
+https://www.interia.pl
+https://www.bbc.co.uk/
+https://morning-brushlands-45899.herokuapp.com
+https://morning-brushlands-45899.herokuapp.com/time
+https://wp.pl
